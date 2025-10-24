@@ -1,0 +1,32 @@
+10:27:57 AM 00925 MS   [GeniusAPI][IndexJS]     Start
+10:27:57 AM 00929 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024102757922][Method: index]     RequestParam: {"Request":{"data":"data:image/png;base64,iVBORw0K...","name":"Profile Picture.png","type":"png"}}
+10:27:58 AM 00081 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024102757922][Method: index]     Output: {"Response":{"syskey":1,"userid":"genius.iq","username":"Soe Htet Paing"}}
+10:27:58 AM 00118 MS   [GeniusAPI][IndexJS]     [Execute Time: 195 ms] End
+10:57:00 AM 00054 MS   [GeniusAPI][IndexJS]     Start
+10:57:00 AM 00065 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024105700053][Method: index]     RequestParam: {"Request":{"data":"data:image/png;base64,iVBORw0K...","name":"Profile Picture.png","type":"png"}}
+10:57:00 AM 00068 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024105700053][Method: index]     Output: {"Response":{"syskey":1,"userid":"genius.iq","username":"Soe Htet Paing"}}
+10:57:00 AM 00070 MS   [GeniusAPI][IndexJS]     [Execute Time: 15 ms] End
+11:09:21 AM 00611 MS   [GeniusAPI][IndexJS]     Start
+11:09:21 AM 00620 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024110921611][Method: index]     RequestParam: {"Request":{"data":"data:image/png;base64,iVBORw0K...","name":"Profile Picture.png","type":"png"}}
+11:09:21 AM 00622 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024110921611][Method: index]     Output: {"Response":{"syskey":1,"userid":"genius.iq","username":"Soe Htet Paing"}}
+11:09:21 AM 00627 MS   [GeniusAPI][IndexJS]     [Execute Time: 14 ms] End
+11:09:32 AM 00092 MS   [GeniusAPI][IndexJS]     Start
+11:09:32 AM 00095 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024110932090][Method: index]     RequestParam: {"Request":{"data":"data:image/png;base64,iVBORw0K...","name":"Profile Picture.png","type":"png"}}
+11:09:32 AM 00097 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024110932090][Method: index]     Output: {"Response":{"syskey":1,"userid":"genius.iq","username":"Soe Htet Paing"}}
+11:09:32 AM 00106 MS   [GeniusAPI][IndexJS]     [Execute Time: 14 ms] End
+11:33:48 AM 00699 MS   [GeniusAPI][IndexJS]     Start
+11:33:48 AM 00706 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024113348698][Method: index]     RequestParam: {"Request":{"data":"data:image/png;base64,iVBORw0K...","name":"Profile Picture.png","type":"png"}}
+11:33:48 AM 00710 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024113348698][Method: index]     Output: {"Response":{"syskey":1,"userid":"genius.iq","username":"Soe Htet Paing"}}
+11:33:48 AM 00712 MS   [GeniusAPI][IndexJS]     [Execute Time: 14 ms] End
+11:34:08 AM 00663 MS   [GeniusAPI][IndexJS]     Start
+11:34:08 AM 00666 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024113408662][Method: index]     RequestParam: {"Request":{"data":"data:image/png;base64,iVBORw0K...","name":"Profile Picture.png","type":"png"}}
+11:34:08 AM 00669 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024113408662][Method: index]     Output: {"Response":{"syskey":1,"userid":"genius.iq","username":"Soe Htet Paing"}}
+11:34:08 AM 00671 MS   [GeniusAPI][IndexJS]     [Execute Time: 9 ms] End
+11:34:35 AM 00228 MS   [GeniusAPI][IndexJS]     Start
+11:34:35 AM 00234 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024113435227][Method: index]     RequestParam: {"Request":{"data":"data:image/png;base64,iVBORw0K...","name":"Profile Picture.png","type":"png"}}
+11:34:35 AM 00237 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024113435227][Method: index]     Output: {"Response":{"syskey":1,"userid":"genius.iq","username":"Soe Htet Paing"}}
+11:34:35 AM 00242 MS   [GeniusAPI][IndexJS]     [Execute Time: 14 ms] End
+11:44:02 AM 00559 MS   [GeniusAPI][IndexJS]     Start
+11:44:02 AM 00563 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024114402558][Method: index]     RequestParam: {"Request":{"data":"data:image/png;base64,iVBORw0K...","name":"Profile Picture.png","type":"png"}}
+11:44:02 AM 00565 MS   [GeniusAPI][IndexJS]     [RequestID: 20251024114402558][Method: index]     Output: {"Response":{"syskey":1,"userid":"genius.iq","username":"Soe Htet Paing"}}
+11:44:02 AM 00566 MS   [GeniusAPI][IndexJS]     [Execute Time: 8 ms] End
